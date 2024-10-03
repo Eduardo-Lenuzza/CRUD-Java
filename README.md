@@ -30,3 +30,7 @@ Antes de executar o projeto, certifique-se de ter:
 - Banco de dados configurado (ex.: MySQL, PostgreSQL, etc.).
 - Driver JDBC correspondente ao banco de dados utilizado.
 - IDE de sua preferência (ex.: Eclipse, IntelliJ IDEA) para executar o projeto.
+
+https://github.com/user-attachments/assets/c6abf22a-1f49-4b65-b52a-5fede3fd81dc
+
+
